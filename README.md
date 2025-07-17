@@ -30,11 +30,13 @@ Data Dictionary:
 * Votes: Number of ratings given by people
 
 Technology Used
+
 📊 Looker Studio – For interactive dashboard visualization
 📄 Google Sheets – As the data source
 🧹 Data Cleaning & Processing – Google Sheets functions for structuring and formatting the data
 
 Key Insights from the Dashboard
+
 Delivery Delays: Delivery times in certain cities exceed the target by up to 30%, impacting customer satisfaction.
 Customer Ratings: 40% of restaurants consistently receive top ratings, while 20% show significant room for improvement.
 Payment Preferences: 55% of transactions are made via digital wallets, highlighting an opportunity to optimize payment systems.
@@ -42,6 +44,7 @@ Revenue Trends: Revenue drops by 15% during off-peak hours, indicating a need fo
 Operational Bottlenecks: 25% of orders face delays due to traffic and inefficient delivery routes, particularly for certain cuisines.
 
 Conclusion & Recommendations
+
 Reduce Delays: Target the 30% of cities with the highest delivery delays to improve satisfaction.
 Promote Top Restaurants: Focus on the 40% of top-rated restaurants to boost loyalty and orders.
 Optimize Payments: Streamline the 55% of digital wallet transactions for smoother payments.
